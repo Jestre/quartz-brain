@@ -1,5 +1,5 @@
 ---
-title: Welcome to Quartz
+title: Neuron Quest
 ---
 
 This is a blank Quartz installation.
