@@ -1,6 +1,8 @@
 ---
-title: "Untitled"
+title: Bubba
 draft: false
-tags: 
-- 
+tags:
 ---
+There is nothing here beyond Bubba's home.  He's hiding in there.
+
+Good luck!
